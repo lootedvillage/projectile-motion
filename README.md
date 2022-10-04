@@ -11,7 +11,7 @@ It was created quickly for primarily educational purposes as an aid when teachin
 
 This script will be updated over time, currently the next proposed updates are:
 
- - Modifying the code so that it properly simulates the motion rather than requiring a predefined timestep array
+ - Modifying the code so that it properly simulates the motion rather than requiring a predefined timestep array (Implemented 04/10/2022)
 
  - Adding code for the "vertical launch" scenario, i.e. throwing a projectile directly upwards
 
